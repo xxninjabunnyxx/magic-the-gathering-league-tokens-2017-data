@@ -1,0 +1,15 @@
+---
+object: set
+id: c6c6c33c-9047-4cc7-8eca-64ddc733c78a
+code: l17
+name: League Tokens 2017
+uri: https://api.scryfall.com/sets/c6c6c33c-9047-4cc7-8eca-64ddc733c78a
+scryfall_uri: https://scryfall.com/sets/l17
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Al17&unique=prints
+released_at: '2017-01-01'
+set_type: token
+card_count: 1
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
